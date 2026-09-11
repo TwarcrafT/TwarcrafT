@@ -1,8 +1,7 @@
----
 
 ## 👋 About Me
 
-```yaml
+```
 <name: Karol Małek
 location: Mazowieckie, Poland
 role:
@@ -21,7 +20,7 @@ current_focus:
   - Server infrastructure
   - Exploring new technologies
 ```
-t
+
 ---
 
 ## ⚡ Tech Stack
