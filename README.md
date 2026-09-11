@@ -1,8 +1,8 @@
 
 ## 👋 About Me
 
-```
-<name: Karol Małek
+```yaml
+name: Karol Małek
 location: Mazowieckie, Poland
 role:
   - Developer
