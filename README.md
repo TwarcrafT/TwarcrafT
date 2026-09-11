@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=pawelek7650&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=9745F5&center=true&vCenter=true&width=650&lines=Developer+%26+Student;" alt="Typing SVG" />
 
 ## 👋 About Me
 
